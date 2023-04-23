@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Miguel</h1>
 <h3 align="center">A French passionate developper</h3>
 
-- 🌱 I’m currently learning **Javascript, NodeJs, express, MySql**
+- 🌱 I’m currently learning **Javascript, NodeJs, Express, MySql** in my school O'clock and Dyma.fr
 
 - 📫 How to reach me **luismiguel.robles.lr@gmail.com**
 
