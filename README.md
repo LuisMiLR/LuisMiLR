@@ -8,11 +8,13 @@ Through my studies at O'clock, I acquired valuable web and mobile web developmen
 
 - :hammer_and_wrench: Furthermore, I am planning to continue my studies through an apprenticeship program.
 
-
+<br/>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://fr.linkedin.com/in/luis-miguel-robles-81213463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://fr.linkedin.com/in/luis-miguel-robles-81213463" height="30" width="40" /></a>
 </p>
+
+
 
 <hr/>
 <h4 align="left"> 💻 Languages and Tools :</h4>
@@ -29,6 +31,7 @@ Through my studies at O'clock, I acquired valuable web and mobile web developmen
 
 
 See you soon, 
+<br/>
 LM :registered:
 
 
