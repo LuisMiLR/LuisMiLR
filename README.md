@@ -1,12 +1,12 @@
 <h3 align="left">Hello 👋, Je suis Luis Miguel</h3>
 
 <br/>
-Je suis un French developer et j'habite à Paris.
+French developer et j'habite à Paris.
 Etudiant de l'école O'clock, (certifiée grande école du numérique) je suis la formation développeur web et web mobile full stack Javascript. 
 Elle se déroule en présentiel pour une durée de 11 mois et 3 mois de stage.
 <br/>
 
-- 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorythm** 
+- 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorythm React** 
 
 - :hammer_and_wrench:  Dés la fin de ma formation j'ai l'intention de poursuivre mes études dans ce domaine en alternance Ecole/Entreprise.
 <br/>
