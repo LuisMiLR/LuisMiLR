@@ -1,14 +1,14 @@
 <h3 align="left">Hello 👋, Je suis Luis Miguel</h3>
 
 <br/>
-French developer et j'habite à Paris.
-Etudiant de l'école O'clock, (certifiée grande école du numérique) je suis la formation développeur web et web mobile full stack Javascript. 
+French developer, j'habite à Paris.
+Etudiant de l'école O'clock, (certifiée grande école du numérique) je fini actuellement la formation développeur web et web mobile full stack Javascript. 
 Elle se déroule en présentiel pour une durée de 11 mois et 3 mois de stage.
 <br/>
 
 - 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorythm React** 
 
-- :hammer_and_wrench:  Dés la fin de ma formation j'ai l'intention de poursuivre mes études dans ce domaine en alternance Ecole/Entreprise.
+- :hammer_and_wrench:  Dés la fin de ma formation j'ai l'intention de poursuivre mes études dans ce domaine en alternance avec l'ecole réputé ETNA.  
 <br/>
 
 <hr/>
@@ -22,6 +22,7 @@ Elle se déroule en présentiel pour une durée de 11 mois et 3 mois de stage.
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <hr/>
 
 <h4 align="left"> :envelope: Contact Me :</h4>
