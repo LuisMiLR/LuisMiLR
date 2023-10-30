@@ -1,14 +1,14 @@
 <h3 align="left">Hello 👋, Je suis Luis Miguel</h3>
 
 <br/>
-French developer, j'habite à Paris.
-Etudiant de l'école O'clock, (certifiée grande école du numérique) je fini actuellement la formation développeur web et web mobile full stack Javascript. 
-Elle se déroule en présentiel pour une durée de 11 mois et 3 mois de stage.
+French developer à Paris.
+Ancien étudiant de l'école O'clock, (certifiée grande école du numérique) titulaire du Titre Professionnel Développeur web et web mobile full stack Javascript. 
+réalisé en  9 mois et 3 mois de stage.
 <br/>
 
-- 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorythm React** 
+- 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorythm, React** 
 
-- :hammer_and_wrench:  Dés la fin de ma formation j'ai l'intention de poursuivre mes études dans ce domaine en alternance avec l'ecole réputé ETNA.  
+- :hammer_and_wrench:  Je recherche une entreprise pour continuer à apprendre et poursuivre mes études en alternance avec l'ecole réputé ETNA.  
 <br/>
 
 <hr/>
