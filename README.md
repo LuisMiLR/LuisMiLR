@@ -8,7 +8,7 @@ réalisé en  9 mois et 3 mois de stage.
 
 - 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorythm, React** 
 
-- :hammer_and_wrench:  Je recherche une entreprise pour continuer à apprendre et poursuivre mes études en alternance avec l'ecole réputé ETNA.  
+- :hammer_and_wrench:  Je recherche une entreprise pour continuer à apprendre et poursuivre mes études en alternance une école de renom.  
 <br/>
 
 <hr/>
