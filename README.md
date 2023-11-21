@@ -33,7 +33,7 @@ réalisé en  9 mois et 3 mois de stage.
 <a href="mailto:luismiguel.robles.lr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-luismiguel.robles.lr@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 <hr/>
 <br/>
-See you soon, 
+
 <br/>
 LM :registered:
 
