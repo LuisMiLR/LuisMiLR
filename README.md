@@ -6,7 +6,7 @@ Ancien étudiant de l'école O'clock, (certifiée grande école du numérique) t
 réalisé en  9 mois et 3 mois de stage.
 <br/>
 
-- 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorythm, React** 
+- 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, React** 
 
 - :hammer_and_wrench:  Je recherche une entreprise pour continuer à apprendre et poursuivre mes études en alternance une école de renom.  
 <br/>
