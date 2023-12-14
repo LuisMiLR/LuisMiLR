@@ -3,11 +3,11 @@
 <br/>
 Dévelopeur FullStack Javascript à Paris.
 J'ai commencé par étudié à l'école O'clock, (certifiée grande école du numérique) titulaire du Titre Professionnel Développeur web et web mobile full stack Javascript. (réalisé en  9 mois avec 3 mois de stage)
-Maintenant je continue mon apprentissage en autonome et avec en 2024 avec la formation Concepteur Développeur d'application Bac +3/4,
+Maintenant je continue mon apprentissage en autonome et en 2024 avec la formation Concepteur Développeur d'application Bac +3/4,
 
 <br/>
 
-- 🌱 Je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, React** 
+- 🌱 Je renforce mes connaissances également sur le très bon site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, React** 
 
 - :hammer_and_wrench:  Actuellement je recherche un poste de développeur web en alternance pour ce début d'année 2024 pour participer à des projets stimulant et poursuivre mes études avec une école de renom.  
 <br/>
@@ -26,7 +26,7 @@ Maintenant je continue mon apprentissage en autonome et avec en 2024 avec la for
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <hr/>
 
-<h4 align="left"> Contact Me :</h4>
+<h4 align="left"> ✉️ Contact Me :</h4>
 
 <a href='https://fr.linkedin.com/in/luis-miguel-robles-81213463' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <a href='https://twitter.com/LuismiMarcoDj' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'/></a>
@@ -35,7 +35,6 @@ Maintenant je continue mon apprentissage en autonome et avec en 2024 avec la for
 <hr/>
 <br/>
 
-<br/>
 LM :registered:
 
 
