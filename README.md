@@ -1,7 +1,7 @@
-<h3 align="left">Hello 👋, Je suis Luis Miguel</h3>
+<h3 align="left">Hello 👋 Je suis Luis Miguel</h3>
 
 <br/>
-Dévelopeur FullStack Javascript à Paris.
+Dévelopeur FullStack Javascript à Paris :white_heart: <br/>
 J'ai commencé par étudié à l'école O'clock, (certifiée grande école du numérique) titulaire du Titre Professionnel Développeur web et web mobile full stack Javascript. (réalisé en  9 mois avec 3 mois de stage)
 Maintenant je continue mon apprentissage en autonome et en 2024 avec la formation Concepteur Développeur d'application Bac +3/4,
 
@@ -35,7 +35,8 @@ Maintenant je continue mon apprentissage en autonome et en 2024 avec la formatio
 <hr/>
 <br/>
 
-LM :registered:
+See you soon <br/>
+LuisMiLR :registered:
 
 
 
