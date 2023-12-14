@@ -2,15 +2,14 @@
 
 <br/>
 Dévelopeur FullStack Javascript à Paris.
-- J'ai tout d'abord étudié de l'école O'clock, (certifiée grande école du numérique) titulaire du Titre Professionnel Développeur web et web mobile full stack Javascript. 
-réalisé en  9 mois et 3 mois de stage.
-- Maintenant je continue avec la formation Concepteur Développeur d'application Bac +3/4, en recherche d'un poste de développeur web en alternance pour ce début d'année 2024.
+J'ai commencé par étudié de l'école O'clock, (certifiée grande école du numérique) titulaire du Titre Professionnel Développeur web et web mobile full stack Javascript. réalisé en  9 mois avec 3 mois de stage.
+Maintenant je continue mon apprentissage en autonome et avec la formation Concepteur Développeur d'application Bac +3/4,
 
 <br/>
 
 - 🌱 De plus je renforce mes connaissances sur le site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, React** 
 
-- :hammer_and_wrench:  Je recherche une entreprise pour continuer à apprendre et poursuivre mes études en alternance une école de renom.  
+- :hammer_and_wrench:  Actuellement je recherche un poste de développeur web en alternance pour ce début d'année 2024 pour participer à des projets stimulant et poursuivre mes études avec une école de renom.  
 <br/>
 
 <hr/>
