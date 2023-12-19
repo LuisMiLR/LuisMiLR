@@ -1,16 +1,15 @@
 <h3 align="left">Hello 👋 Je suis Luis Miguel</h3>
 
 <br/>
-Dévelopeur FullStack Javascript à Paris :white_heart: <br/>
+🥖Dévelopeur FullStack Javascript à Paris <br/>
 J'ai commencé par étudié à l'école O'clock, (certifiée grande école du numérique) titulaire du Titre Professionnel Développeur web et web mobile full stack Javascript. (réalisé en  9 mois avec 3 mois de stage)
-Maintenant je continue mon apprentissage en autonome et en 2024 avec la formation Concepteur Développeur d'application Bac +3/4,
+Maintenant je continue d'apprendre de manière autonome et j'entame mes recherches pour intégrer une poste de developpeur web en alternance avec la formation Concepteur Développeur d'application Bac +3/4
 
 <br/>
 
-- 🌱 Je renforce mes connaissances également sur le très bon site Dyma.fr :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, React** 
+- 🌱 Je renforce mes connaissances sur :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, React** et en ce moment principalement sur le vanilla.
 
-- :hammer_and_wrench:  Actuellement je recherche un poste de développeur web en alternance pour ce début d'année 2024 pour participer à des projets stimulant et poursuivre mes études avec une école de renom.  
-<br/>
+- :hammer_and_wrench:  Actuellement en recherche un poste de développeur web en alternance pour ce début d'année 2024 mon objectif participer à des projets stimulant et poursuivre mes études avec une école de renom.  
 
 <hr/>
 <h4 align="left"> 💻 Tech Stack :</h4>
