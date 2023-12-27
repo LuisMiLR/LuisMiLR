@@ -1,4 +1,4 @@
-<h3 align="left">Hello 👋 Je suis Luis Miguel</h3>
+<h3 align="left">Hello, Je suis Luis Miguel 👋</h3>
 
 <br/>
 🥖Dévelopeur FullStack Javascript à Paris <br/>
