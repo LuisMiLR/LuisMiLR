@@ -11,7 +11,7 @@ Aujourd'hui, j'apprendre en continu et de manière autonome.
 <br/>
 
 
-🌱 Je renforce mes connaissances sur :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, React** 
+🌱 Je renforce mes connaissances sur :  **Javascript, NodeJs, ExpressJS, MySql, Algorithme, ReactJS** 
 
 🔍 En recherche active d'un poste de développeur web en alternance d'un an pour ce début d'année 2024, au rythme de 3 semaines entreprise et une semaine formation (Concepteur Développeur d'Application, bac +3/4)
 
