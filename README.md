@@ -1,11 +1,11 @@
 <h3 align="left">Hello, Je suis Luis Miguel 👋</h3>
 
 <br/>
-🥖Dévelopeur FullStack Javascript à Paris 🥖 
+🥖Dévelopeur FullStack JavaScript à Paris 🥖 
 <br/>
 <br/>
-J'ai commencé par étudié seul puis à l'école O'clock, (certifiée grande école du numérique) ou j'ai obtenu le diplome de Développeur web et web mobile full stack Javascript. (réalisé en  9 mois avec 3 mois de stage)
-Aujourd'hui, j'apprendre en continu et de manière autonome.
+J'ai commencé par étudié seul puis à l'école O'clock, (certifiée grande école du numérique) ou j'ai obtenu le diplome de Développeur web et web mobile full stack JavaScript. (réalisé en  9 mois dont 3 mois de stage)
+Aujourd'hui, je continue d'apprendre en continu et de manière autonome.
 
 <br/>
 <br/>
