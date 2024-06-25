@@ -5,17 +5,15 @@ Dévelopeur FullStack JavaScript à Paris 🥖
 <br/>
 <br/>
 J'ai commencé par étudier seul puis à l'école O'clock, (certifiée grande école du numérique) où j'ai obtenu le diplôme de Développeur web et web mobile full stack JavaScript (Bac+2) réalisé en  9 mois, dont 3 mois de stage.
-Aujourd'hui, je continue d'apprendre en continu et de manière autonome.
+Aujourd'hui, je continue d'apprendre en continue de manière autonome et par le biais de la formation "CDA" Concepteur Développeur d'Application en alternance (Bac+4) au sein de l'établissement Wild Code School
 
 <br/>
 <br/>
 
 
-🌱 Je renforce mes connaissances sur :  **Javascript Vanilla, MySql, ReactJS, design Pattern** 
+🌱 Je renforce mes connaissances sur :  **Javascript Vanilla, MySql, ReactJS, Nextjs, design Pattern** 
 
-🔍 En recherche active d'un poste de développeur web en alternance d'un an pour ce début d'année 2024, au rythme de 3 semaines entreprise et une semaine formation (Concepteur Développeur d'Application, bac +3/4)
-
-🎯 Mon objectif pour cette année 2024, participer à des projets stimulants aux côtés de professionnels et poursuivre mes études avec une école de renom.  
+🎯 Mon objectif pour cette année 2024, participer et réaliser des projets stimulants aux côtés des professionnels dans mon entreprise.
 
 <hr/>
 <h4 align="left"> 💻 Tech Stack :</h4>
