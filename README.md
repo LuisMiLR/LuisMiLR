@@ -1,19 +1,49 @@
-<h3 align="left">Hello, Je suis Luis Miguel 👋</h3>
 
-<br/>
-Dévelopeur FullStack JavaScript à Paris 🥖 
-<br/>
-<br/>
-J'ai commencé par étudier seul puis à l'école O'clock, (certifiée grande école du numérique) où j'ai obtenu le diplôme de Développeur web et web mobile full stack JavaScript (Bac+2) réalisé en  9 mois, dont 3 mois de stage.
-Aujourd'hui, je continue d'apprendre en continue de manière autonome et par le biais de la formation "CDA" Concepteur Développeur d'Application en alternance (Bac+4) au sein de l'établissement Wild Code School
+<h3 align="left">Hola, je suis Luis Miguel 👋</h3>
 
-<br/>
-<br/>
+ **Bienvenue, voici mon profil de Développeur Full stack**
 
 
-🌱 Je renforce mes connaissances sur :  **Javascript Vanilla, MySql, ReactJS, Nextjs, design Pattern** 
+### 🛠️ Compétences Techniques
 
-🎯 Mon objectif pour cette année 2024, participer et réaliser des projets stimulants aux côtés des professionnels dans mon entreprise.
+- **Langages :** JavaScript, TypeScript, SQL
+- **Frameworks et Bibliothèques :** ReactJS, Next.js, Node.js, Express.js, React Native
+- **Bases de données :** MySQL, PostgreSQL
+- **Outils de DevOps :** Docker, CI/CD
+- **Autres :** GraphQL, Design Patterns
+
+### 📚 Parcours
+
+#### Formation et Diplômes
+- **Autodidacte :** Apprentissage initial en programmation.
+- **O'clock (certifiée Grande École du Numérique) :** Diplôme de Développeur Web et Web Mobile Full Stack JavaScript (Bac+2) en 9 mois, dont 3 mois de stage.
+- **Wild Code School :** Formation "CDA" Concepteur Développeur d'Application en alternance (Bac+4).
+
+#### Expérience Professionnelle
+- **Actuellement en alternance** dans une société d'édition de logiciel en tant que développeur FullStack JS.
+
+
+
+### 🌱 Apprentissage Continu
+Actuellement, je renforce mes compétences sur :
+- **JavaScript Vanilla**
+- **TypeScript (POO)**
+- **MySQL**
+- **Next.js**
+- **GraphQL**
+- **Docker**
+- **CI/CD**
+- **React Native**
+
+### 🎯 Objectifs pour 2024
+- Participer à des projets stimulants aux côtés des professionnels de mon entreprise.
+- Continuer à apprendre et à maîtriser de nouvelles technologies et pratiques de développement.
+
+
+
+### 📫 Me Contacter
+- **LinkedIn :** [www.linkedin.com/in/luis-miguel-robles](#)
+- **Email :** [luismiguel.robles.lr@gmail.com](mailto:luismiguel.robles.lr@gmail.com)
 
 <hr/>
 <h4 align="left"> 💻 Tech Stack :</h4>
@@ -36,7 +66,7 @@ Aujourd'hui, je continue d'apprendre en continue de manière autonome et par le 
 ![FIGMA](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0078D4?style=for-the-badge&logo=Jira&logoColor=white)
 
-<h4 align="left"> 💻 Learn soon :</h4>
+<h4 align="left"> 💻 Learn :</h4>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
