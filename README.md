@@ -29,7 +29,6 @@
 #### Expérience Professionnelle
 - **Actuellement en alternance** dans une société d'édition de logiciel en tant que développeur FullStack JS.
 
-<br/>
 
 ### 🌱 Apprentissage Continue
 Je renforce mes compétences sur :
@@ -41,8 +40,7 @@ Je renforce mes compétences sur :
 - **Docker**
 - **CI/CD**
 - **React Native**
-- 
-<br/>
+
 
 ### 🎯 Objectifs pour 2024
 - Participer à des projets stimulants aux côtés des professionnels de mon entreprise.
