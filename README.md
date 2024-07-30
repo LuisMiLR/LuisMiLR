@@ -1,9 +1,15 @@
 
-<h3 align="left">Hola, je suis Luis Miguel </h3>
+<h3 align="left">Hola, je suis Luis Miguel </h3>   
 
  **Bienvenue, voici mon profil de Développeur Full stack**
 
-![Coder GIF](./images/coder.gif)
+<br/>
+ 
+![Machine GIF](./images/machine.gif)
+
+<br/>
+<hr/>
+
 
 ### 🛠️ Compétences Techniques
 
@@ -23,7 +29,7 @@
 #### Expérience Professionnelle
 - **Actuellement en alternance** dans une société d'édition de logiciel en tant que développeur FullStack JS.
 
-![Machine GIF](./images/machine.gif)
+<br/>
 
 ### 🌱 Apprentissage Continue
 Je renforce mes compétences sur :
@@ -35,19 +41,24 @@ Je renforce mes compétences sur :
 - **Docker**
 - **CI/CD**
 - **React Native**
+- 
+<br/>
 
 ### 🎯 Objectifs pour 2024
 - Participer à des projets stimulants aux côtés des professionnels de mon entreprise.
 - Continuer à apprendre et à maîtriser de nouvelles technologies et pratiques de développement.
 
+<br/>
+<hr/>
 
 ### 📫 Me Contacter
 - **LinkedIn :** [www.linkedin.com/in/luis-miguel-robles](#)
 - **Email :** [luismiguel.robles.lr@gmail.com](mailto:luismiguel.robles.lr@gmail.com)
 
-![Cool GIF](./images/cool.gif)
 
+<br/>
 <hr/>
+
 <h4 align="left"> 💻 Tech Stack :</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,16 +87,24 @@ Je renforce mes compétences sur :
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+<br/>
 <hr/>
+
 <h4 align="left"> ✉️ Contact Me :</h4>
 
 <a href='https://fr.linkedin.com/in/luis-miguel-robles-81213463' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <a href='https://twitter.com/LuismiMarcoDj' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white'/></a>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisMiLR)
 <a href="mailto:luismiguel.robles.lr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-luismiguel.robles.lr@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-<hr/>
+
+<br/>
+
 See you soon <br/>
 LuisMiLR :registered:
+
+![Smiley GIF](./images/smiley.gif) 
+
 
 
 
