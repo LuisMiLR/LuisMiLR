@@ -1,8 +1,9 @@
 
-<h3 align="left">Hola, je suis Luis Miguel 👋</h3>
+<h3 align="left">Hola, je suis Luis Miguel </h3>
 
  **Bienvenue, voici mon profil de Développeur Full stack**
 
+![Coder GIF](./images/coder.gif)
 
 ### 🛠️ Compétences Techniques
 
@@ -22,10 +23,10 @@
 #### Expérience Professionnelle
 - **Actuellement en alternance** dans une société d'édition de logiciel en tant que développeur FullStack JS.
 
+![Machine GIF](./images/machine.gif)
 
-
-### 🌱 Apprentissage Continu
-Actuellement, je renforce mes compétences sur :
+### 🌱 Apprentissage Continue
+Je renforce mes compétences sur :
 - **JavaScript Vanilla**
 - **TypeScript (POO)**
 - **MySQL**
@@ -40,10 +41,11 @@ Actuellement, je renforce mes compétences sur :
 - Continuer à apprendre et à maîtriser de nouvelles technologies et pratiques de développement.
 
 
-
 ### 📫 Me Contacter
 - **LinkedIn :** [www.linkedin.com/in/luis-miguel-robles](#)
 - **Email :** [luismiguel.robles.lr@gmail.com](mailto:luismiguel.robles.lr@gmail.com)
+
+![Cool GIF](./images/cool.gif)
 
 <hr/>
 <h4 align="left"> 💻 Tech Stack :</h4>
