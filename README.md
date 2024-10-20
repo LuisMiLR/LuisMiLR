@@ -45,8 +45,8 @@
 ---
 
 ### 🎯 Objectifs pour 2024
-- Participer à des projets stimulants aux côtés des professionnels de mon entreprise.
-- Continuer à apprendre et à maîtriser de nouvelles technologies et pratiques de développement.
+- Participer aux projets stimulants aux côtés des professionnels de mon entreprise.
+- Continuer l'apprentissage et à maîtriser de nouvelles technologies.
 <br/>
 
 ### 📚 Parcours Professionnel et Formation
