@@ -74,7 +74,7 @@ I decided to fully embrace my passion for technology and transitioned into the f
 
 ## 🧩 Featured Project
 
-### 🚀 [Flowee](https://github.com/LuisMiLR/Flowee)
+### 🚀 [Flowee](https://github.com/WildCodeSchool/cdajs-2405-projet-flowee)
 
 A SaaS project management web app designed to centralize and streamline collaboration between companies and their clients using agile principles. By bringing all communications together in a single secure space, Flowee enables stakeholders to monitor project progress in real time and maintain a clear, traceable record of every decision.
 
